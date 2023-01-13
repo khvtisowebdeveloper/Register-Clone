@@ -21,7 +21,10 @@ body{
     border-radius: 8px;
     margin-top: 150px;
     margin-left: 350px;
-
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .email{
     width: 190px;
