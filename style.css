@@ -8,6 +8,10 @@
 body{
     background-image: url(https://images2.alphacoders.com/594/594767.jpg);
     font-family: 'Roboto Condensed', sans-serif;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .box{
     width: 300px;
