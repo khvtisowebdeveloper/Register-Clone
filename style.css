@@ -12,6 +12,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    padding: 150px;
 }
 .box{
     width: 300px;
@@ -19,12 +22,6 @@ body{
     border: 2px solid white;
     background:white ;
     border-radius: 8px;
-    margin-top: 150px;
-    margin-left: 350px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
 }
 .email{
     width: 190px;
